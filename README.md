@@ -11,7 +11,7 @@ We seldom pay attention to the moment when a useful tool turns into something we
 * **Under the Guidance of Mentor:** **Rajat Takkar**
 
 * ## 📂 Project Structure
-* **`paper/`**: Contains the final research paper PDF (Preprint).
+* **`researchpaper`**: Contains the final research paper PDF (Preprint).
 * **`README.md`**: Project documentation, DOI registration, and publication details.
 
 ## 🔗 Official Publication
