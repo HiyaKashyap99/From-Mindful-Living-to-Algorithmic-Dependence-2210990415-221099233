@@ -14,7 +14,6 @@
 | `figure_5_1_clinical_harm.py` | Generates Figure 5.1 — Clinical Harm and Negative Effects Prevalence |
 | `figure_5_2_handwriting_typing.py` | Generates Figure 5.2 — Learning Retention: Handwriting vs Typing |
 | `literature_synthesis.py` | Loads the 15-study evidence matrix and reproduces the report's headline statistics |
-| `dependency_assessment.py` | Interactive CLI tool: scores a user's algorithmic-dependence risk based on report's diagnostic thresholds |
 
 ## Requirements
 
