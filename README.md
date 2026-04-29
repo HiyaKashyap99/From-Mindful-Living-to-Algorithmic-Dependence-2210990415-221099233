@@ -6,6 +6,7 @@ The preprint version of this paper is officially registered and hosted on **Rese
 **Direct Link:** [View on ResearchGate](https://doi.org/10.13140/RG.2.2.36461.96489)
 
 ## 🔗AI Dependency Assesment - https://assesment-researchpaper.netlify.app
+Users may evaluate their dependency on AI through a specially-designed questionnaire for this research paper.
 
 ## 👥 Authors
 * **Shivi - 2210992333** - (Chitkara University)
