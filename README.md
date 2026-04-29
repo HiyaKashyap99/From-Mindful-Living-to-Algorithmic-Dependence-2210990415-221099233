@@ -1,10 +1,6 @@
 ## From Mindful Living to Algorithmic Dependence: Psychological Consequences of AI-Driven Health and Wellness Applications 
 [![DOI](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.36461.96489-blue)](https://doi.org/10.13140/RG.2.2.36461.96489)
 
-## 🔗 Official Publication
-The preprint version of this paper is officially registered and hosted on **ResearchGate**.  
-**Direct Link:** [View on ResearchGate](https://doi.org/10.13140/RG.2.2.36461.96489)
-
 ## 🔗AI Dependency Assesment - https://assesment-researchpaper.netlify.app
 Users may evaluate their dependency on AI through a specially-designed questionnaire for this research paper.
 
